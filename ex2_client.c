@@ -1,5 +1,5 @@
-// אופיר שטרוסברג, 207828641
-// לידור דנון, 211823240
+// אופיר שטרוסברג
+// לידור דנון
 #include <sys/random.h>
 #include <stdio.h>
 #include <signal.h>
